@@ -1,1 +1,1 @@
-# cs1430-final-project
+# Chess Game Recognition
